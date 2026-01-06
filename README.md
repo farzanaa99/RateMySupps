@@ -3,6 +3,9 @@
 
 Application inspired by RateMyProfessor, this app allows you to rate & view supplements in one centralized platform.
 
+# Link
+https://www.ratemysupp.com/
+
 
 # Built With
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
