@@ -6,6 +6,9 @@ Application inspired by RateMyProfessor, this app allows you to rate & view supp
 # Link
 https://www.ratemysupp.com/
 
+![Uploading RateMySupp-FindRateSupplements-GoogleChrome2026-11-1717-55-14-ezgif.com-video-to-gif-converter.gif…]()
+
+
 
 # Built With
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -54,4 +57,5 @@ https://www.ratemysupp.com/
 ```
    Frontend runs on `http://localhost:5173`
 
-   
+
+
