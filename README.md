@@ -6,7 +6,7 @@ Application inspired by RateMyProfessor, this app allows you to rate & view supp
 # Link
 https://www.ratemysupp.com/
 
-![Uploading RateMySupp-FindRateSupplements-GoogleChrome2026-11-1717-55-14-ezgif.com-video-to-gif-converter.gif…]()
+<img width="800" height="418" alt="RateMySupp-FindRateSupplements-GoogleChrome2026-11-1717-55-14-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d6970b56-fd65-4e4f-87f8-b942ba35228a" />
 
 
 
